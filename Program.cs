@@ -1,10 +1,8 @@
-﻿namespace RemoveDuplicateAssessments
+  using System.Collections.Generic;
+
+namespace RemoveDuplicateAssessments
 {
-    using System.Collections.Generic;
-
-    using System.Collections.Generic;
-
-    public class Program
+  public class Program
     {
         public static void Main(string[] args)
         {
